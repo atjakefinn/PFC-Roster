@@ -128,7 +128,7 @@ Cleveland Browns,CLE
 QB,DeShone Kizer,21,2017,75,45,93,95,63,68,1,4
 QB,Cody Kessler,24,2016,95,60,83,83,64,37,0.6,3
 QB,Kevin Hogan,25,2016,66,45,90,75,60,60,0.3,1
-RB,Matt Dayes,22,2017,78,40,71,59,71,65,0.4,4
+RB,Barry Sanders,22,2017,97,72,81,84,91,99,1.4,4
 RB,Duke Johnson,24,2015,85,61,70,67,85,83,0.6,2
 RB,Isaiah Crowell,24,2014,79,68,78,85,83,90,1.7,1
 RB,Darius Jackson,24,2016,85,35,81,67,88,71,0.4,3
